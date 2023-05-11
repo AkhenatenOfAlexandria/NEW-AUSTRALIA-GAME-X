@@ -1,0 +1,6 @@
+global control = {}
+    if love.keyboard.isDown("lcontrol") then controlDown = true end
+    if love.keyboard.isDown("rcontrol") then controlDown = true end
+end
+
+return controlDown

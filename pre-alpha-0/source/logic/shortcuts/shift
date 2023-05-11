@@ -1,0 +1,6 @@
+global shift = {}
+    if love.keyboard.isDown("lshift") then shiftDown = true end
+    if love.keyboard.isDown("rshift") then shiftDown = true end
+end
+
+return shiftDown = true
