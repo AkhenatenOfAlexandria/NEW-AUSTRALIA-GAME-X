@@ -1,4 +1,4 @@
-# NEW-AUSTRALIA-GAME
+# NEW-AUSTRALIA-GAME-X
 The Game of New Australia
 This Game is patterned on a tutorial, but it has deviated enough that it is hard to fix bugs.
 
